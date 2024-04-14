@@ -29,6 +29,7 @@ const QuestionComponent = ({
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mt-5">
         {Q.answers.map((item, index) => (
           <Button
+            key={index}
             className="w-80 text-wrap h-fit"
             disabled={isAnswered}
             onClick={() => {
@@ -64,6 +65,7 @@ const Index = () => {
               Q={item}
               setPoint={setPoint}
               setQuestionsAnswered={setQuestionsAnswered}
+              key={index}
             />
           ))}
           {!isSubmitted && (
