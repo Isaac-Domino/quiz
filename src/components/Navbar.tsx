@@ -89,9 +89,12 @@ const Navbar = () => {
               </AlertDialogFooter>
             </AlertDialogContent>
           </AlertDialog>
-          <SignInButton afterSignInUrl="/quiz">
-            <Button>LOGIN</Button>
-          </SignInButton>
+          <Link
+            href={"/login"}
+            className={buttonVariants({ variant: "secondary" })}
+          >
+            LOGIN
+          </Link>
           <SignUpButton afterSignUpUrl="/quiz">
             <Button>REGISTER</Button>
           </SignUpButton>

@@ -9,6 +9,7 @@ const Login = () => {
         routing="path"
         signUpUrl="/register"
         afterSignInUrl={"/quiz"}
+        redirectUrl={"/quiz"}
       />
     </main>
   );
