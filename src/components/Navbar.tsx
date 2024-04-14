@@ -60,15 +60,32 @@ const Navbar = () => {
             </AlertDialogTrigger>
             <AlertDialogContent>
               <AlertDialogHeader>
-                <AlertDialogTitle>Are you absolutely sure?</AlertDialogTitle>
+                <AlertDialogTitle>READ CAREFULLY</AlertDialogTitle>
                 <AlertDialogDescription>
-                  This action cannot be undone. This will permanently delete
-                  your account and remove your data from our servers.
+                  <div className="text-black text-start">
+                    <h3>- Login/Register your account</h3> <br />
+                    <h3>
+                      - Sign up and wait for the verification code that has been
+                      sent to your corresponding email
+                    </h3>{" "}
+                    <br />
+                    <h3>
+                      - Read carefully every question and avoid clicking the
+                      button on accident, you CANNOT re-do your answer
+                    </h3>
+                  </div>
                 </AlertDialogDescription>
               </AlertDialogHeader>
               <AlertDialogFooter>
                 <AlertDialogCancel>Cancel</AlertDialogCancel>
-                <AlertDialogAction>Continue</AlertDialogAction>
+                <AlertDialogAction>
+                  <Link
+                    href={"/login"}
+                    className={buttonVariants({ variant: "default" })}
+                  >
+                    Continue
+                  </Link>
+                </AlertDialogAction>
               </AlertDialogFooter>
             </AlertDialogContent>
           </AlertDialog>
