@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Ikaw ay may gustong bilhin na gamit na matagal mo nang pinag-ipunan ngunit kailangan ng Nanay mo ang pera para may pambili siya ng maintenance na gamot, ano ang iyong gagawin?",
+    "answers": [
+      "Ipapahiram ito sa kaniya para may pambili siya ng kaniyang maintenance na gamot.",
+      "Bibilhin ang matagal nang pinag-ipunan na gamit at hindi sasabihin sa ina.",
+      "Ipapahiram ang kalahati ng pera na naipon para hindi malaki ang mawawala sa iyo."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hinihikayat ka ng iyong kapwa mag-aaral na mag ipon ng pera ngunit ang baon mo sa isang araw ay nagkukulang pa dahil madalas kang magutom, ano ang iyong gagawin?",
+    "answers": [
+      "Hindi papaya sa gusto ng aking kapwa mag-aaral dahil uunahin ko ang aking pagkain.",
+      "Babawasan ang gastos sa pagkain at papaya sa gusto niya.",
+      "Manghihingi ng karagdagang baon sa aking Ina upang may panghulog sa ipon."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Niyaya ka ng iyong mga kaibigan na kumain sa samgyupsal ngunit wala kang nailaan na pera para dito, mayroon kang naipon nung nakaraan pero ito ay nakalaan sa ibang bagay, ano ang iyong gagawin?",
+    "answers": [
+      "Hindi na muna sasama at sasabihin na sa susunod na lang.",
+      "Gagastusin muna ang pera na naipon noong nakaraan para may pera pang samgyup.",
+      "Mangungutang sa kaibigan at sasabihing babayaran na lang sa susunod na lingo upang may pang samgyup."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Araw ng sahod ng iyong Tatay at nasa mall ka kasama ang iyong pamilya, may nakita kang damit na iyong gustong ipabili ngunit ang sabi ng iyong Nanay ay walang budget na nakalaan para don, ano ang iyong gagawin?",
+    "answers": [
+      "Sasama ang loob dahil bagong sahod naman ang Tatay, bakit walang budget para sa isang damit?",
+      "Pipilitin ang magulang para pumayag na bilhin ang damit.",
+      "Iintindihin na sa ibang bagay nakalaan ang pera na sahod ng Tatay."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "May gusto kang bilhin na album ng k-pop group na hinahangaan mo ngunit hinihiram ng magulang mo ang pera upang mairaos niyo ang Lingo na ito, ano nag iyong gagawin?",
+    "answers": [
+      "Magsisinungaling at sasabihin na nagastos na ang pera.",
+      "Bibilhin na lang agad ang album upang hindi maipahiram ang pera sa magulang.",
+      "Ipapahiram muna ang pera sa iyong magulang dahil pwede pa namang bilhin ang album next time."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Lipstick",
+    "answers": [
+      "Pangangailangan",
+      "Kagustuhan",
+      "Parehong Pangangailangan at Kagustuhan"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bagong phone case",
+    "answers": [
+      "Pangangailangan",
+      "Kagustuhan",
+      "Parehong Pangangailangan at Kagustuhan"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Printer",
+    "answers": [
+      "Pangangailangan",
+      "Kagustuhan",
+      "Parehong Pangangailangan at Kagustuhan"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bag",
+    "answers": [
+      "Pangangailangan",
+      "Kagustuhan",
+      "Parehong Pangangailangan at Kagustuhan"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Ang pagnanais mo sa isang bagay o hangad mong makuha at makmatan.",
+    "answers": [
+      "Pangangailangan",
+      "Kagustuhan",
+      "Parehong Pangangailangan at Kagustuhan"
+    ],
+    "correct": 1
+  }
+]
